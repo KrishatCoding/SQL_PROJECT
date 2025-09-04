@@ -6,13 +6,13 @@ All data is fully generated online and does not correspond to real individuals o
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 # Table of Contents
--[Overview](https://github.com/KrishatCoding/SQL_PROJECT#overview)
--[Files Included](https://github.com/KrishatCoding/SQL_PROJECT#files-included)
--[Database Structure](https://github.com/KrishatCoding/SQL_PROJECT#database-structure)
--[Analytical Queries](https://github.com/KrishatCoding/SQL_PROJECT#analytical-queries)
--[Getting Started](https://github.com/KrishatCoding/SQL_PROJECT#getting-started)
--[Learning Outcomes](https://github.com/KrishatCoding/SQL_PROJECT#learning-outcomes)
--[License](https://github.com/KrishatCoding/SQL_PROJECT#license)
+- [Overview](https://github.com/KrishatCoding/SQL_PROJECT#overview)
+- [Files Included](https://github.com/KrishatCoding/SQL_PROJECT#files-included)
+- [Database Structure](https://github.com/KrishatCoding/SQL_PROJECT#database-structure)
+- [Analytical Queries](https://github.com/KrishatCoding/SQL_PROJECT#analytical-queries)
+- [Getting Started](https://github.com/KrishatCoding/SQL_PROJECT#getting-started)
+- [Learning Outcomes](https://github.com/KrishatCoding/SQL_PROJECT#learning-outcomes)
+- [License](https://github.com/KrishatCoding/SQL_PROJECT#license)
 
 # Overview
 This project demonstrates a relational company database built with three main tables: employees, departments, and projects. Pre-built SQL queries provide solutions for questions like gender distribution, active staff metrics, intern counts, departmental CTC, project budgets, and department head analytics.
