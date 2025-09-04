@@ -1,6 +1,8 @@
 # SQL_PROJECT
 SQL project managing employee, department, and project data, featuring advanced queries for HR and business analytics. All sample data is fully generated online and not based on any real individuals or organizations.
+
 Company Database SQL Project
+
 Overview
 This project presents a company SQL database demo built on three main tables: employees, departments, and projects. Practical queries for business and HR analytics are included, covering gender distribution, active staff metrics, intern counts, departmental averages, project allocations, and managerial oversight.
 The entire dataset was generated online for demonstration and educational purposes only. No real or personal data is used.
