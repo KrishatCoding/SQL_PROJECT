@@ -16,6 +16,7 @@ This project demonstrates a relational company database built with three main ta
 
 Files Included
 Employees.csv — Sample employee data
+
 Departments.csv — Sample department data
 Projects.csv — Sample project data
 SQL Queries — Upload your SQL script here for queries and table creation
