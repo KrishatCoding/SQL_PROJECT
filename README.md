@@ -7,7 +7,6 @@ All data is fully generated online and does not correspond to real individuals o
 
 # Table of Contents
 
-Overview
 Files Included
 Database Structure
 Analytical Queries
