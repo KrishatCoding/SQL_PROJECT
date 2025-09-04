@@ -11,7 +11,7 @@ All data is fully generated online and does not correspond to real individuals o
 [Database Structure](https://github.com/KrishatCoding/SQL_PROJECT#database-structure)
 [Analytical Queries](https://github.com/KrishatCoding/SQL_PROJECT#analytical-queries)
 [Getting Started](https://github.com/KrishatCoding/SQL_PROJECT#getting-started)
-[L[earning Outcomes](https://github.com/KrishatCoding/SQL_PROJECT#learning-outcomes)
+[Learning Outcomes](https://github.com/KrishatCoding/SQL_PROJECT#learning-outcomes)
 [License](https://github.com/KrishatCoding/SQL_PROJECT#license)
 
 # Overview
