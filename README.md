@@ -5,7 +5,7 @@ All data is fully generated online and does not correspond to real individuals o
 # 💻 Tech Stack:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-able of Contents
+# Table of Contents
 Overview
 Files Included
 Database Structure
@@ -14,10 +14,11 @@ Getting Started
 Learning Outcomes
 License
 
-Overview
+# Overview
 This project demonstrates a relational company database built with three main tables: employees, departments, and projects. Pre-built SQL queries provide solutions for questions like gender distribution, active staff metrics, intern counts, departmental CTC, project budgets, and department head analytics.
 
-Files Included
+# Files Included
+
 Employees.csv — Sample employee data
 
 Departments.csv — Sample department data
@@ -30,31 +31,33 @@ README.md — This project overview and instructions
 
 LICENSE — MIT License
 
-Database Structure
+# Database Structure
 employees: Contains fields such as gender, designation, salary, status, and department reference.
 
 departments: Holds department IDs, names, and head employee IDs.
 
 projects: Stores project names, budgets, related departments, and timelines.
 
-Analytical Queries
-The provided SQL file answers:
+# Analytical Queries
 
-What is the gender distribution across all departments?
+1. The provided SQL file answers:
 
-How many active employees are in each department?
+2. What is the gender distribution across all departments?
 
-Which departments have the most interns?
+3. How many active employees are in each department?
 
-What is the average CTC per department?
+4. Which departments have the most interns?
 
-What ongoing projects exist per department, and what are their budgets?
+5.What is the average CTC per department?
 
-How many ongoing projects does each department head manage?
+6. What ongoing projects exist per department, and what are their budgets?
+
+7. How many ongoing projects does each department head manage?
 
 All query examples are included in SQL_Queries.sql.
 
-Getting Started
+# Getting Started
+
 Download or clone the repository.
 
 Open the CSV files in your SQL client to load sample data (guide on importing CSV in MySQL).
@@ -63,14 +66,14 @@ Run the SQL script for table creation and to execute built-in analytical queries
 
 Explore and modify queries as per your requirements.
 
-Learning Outcomes
+# Learning Outcomes
 Apply SQL for realistic HR and business analytics scenarios.
 
 Practice multi-table joins, aggregation, and data modeling.
 
 Gain experience working with structured, artificial datasets for portfolios, tests, or interviews.
 
-License
+# License
 This project is licensed under the MIT License.
 
 Feel free to copy and adapt this README; simply replace file links or section names as your repo grows. This ensures all users see where to find and how to use your scripts and data files for robust results.
