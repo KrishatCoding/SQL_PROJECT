@@ -4,11 +4,17 @@ All data is fully generated online and does not correspond to real individuals o
 
 Table of Contents
 Overview
+
 Files Included
+
 Database Structure
+
 Analytical Queries
+
 Getting Started
+
 Learning Outcomes
+
 License
 
 Overview
@@ -18,37 +24,56 @@ Files Included
 Employees.csv — Sample employee data
 
 Departments.csv — Sample department data
+
 Projects.csv — Sample project data
+
 SQL Queries — Upload your SQL script here for queries and table creation
+
 README.md — This project overview and instructions
+
 LICENSE — MIT License
 
 Database Structure
 employees: Contains fields such as gender, designation, salary, status, and department reference.
+
 departments: Holds department IDs, names, and head employee IDs.
+
 projects: Stores project names, budgets, related departments, and timelines.
 
 Analytical Queries
 The provided SQL file answers:
+
 What is the gender distribution across all departments?
+
 How many active employees are in each department?
+
 Which departments have the most interns?
+
 What is the average CTC per department?
+
 What ongoing projects exist per department, and what are their budgets?
+
 How many ongoing projects does each department head manage?
+
 All query examples are included in SQL_Queries.sql.
 
 Getting Started
 Download or clone the repository.
+
 Open the CSV files in your SQL client to load sample data (guide on importing CSV in MySQL).
+
 Run the SQL script for table creation and to execute built-in analytical queries.
+
 Explore and modify queries as per your requirements.
 
 Learning Outcomes
 Apply SQL for realistic HR and business analytics scenarios.
+
 Practice multi-table joins, aggregation, and data modeling.
+
 Gain experience working with structured, artificial datasets for portfolios, tests, or interviews.
 
 License
 This project is licensed under the MIT License.
+
 Feel free to copy and adapt this README; simply replace file links or section names as your repo grows. This ensures all users see where to find and how to use your scripts and data files for robust results.
