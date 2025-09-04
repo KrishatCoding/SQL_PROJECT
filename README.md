@@ -7,11 +7,17 @@ All data is fully generated online and does not correspond to real individuals o
 
 # Table of Contents
 [Overview](https://github.com/KrishatCoding/SQL_PROJECT#overview)
+
 [Files Included](https://github.com/KrishatCoding/SQL_PROJECT#files-included)
+
 [Database Structure](https://github.com/KrishatCoding/SQL_PROJECT#database-structure)
+
 [Analytical Queries](https://github.com/KrishatCoding/SQL_PROJECT#analytical-queries)
+
 [Getting Started](https://github.com/KrishatCoding/SQL_PROJECT#getting-started)
+
 [Learning Outcomes](https://github.com/KrishatCoding/SQL_PROJECT#learning-outcomes)
+
 [License](https://github.com/KrishatCoding/SQL_PROJECT#license)
 
 # Overview
