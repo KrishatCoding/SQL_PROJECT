@@ -6,8 +6,8 @@ All data is fully generated online and does not correspond to real individuals o
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 # Table of Contents
-Overview
 
+Overview
 Files Included
 Database Structure
 Analytical Queries
@@ -49,7 +49,7 @@ projects: Stores project names, budgets, related departments, and timelines.
 
 4. Which departments have the most interns?
 
-5.What is the average CTC per department?
+5. What is the average CTC per department?
 
 6. What ongoing projects exist per department, and what are their budgets?
 
