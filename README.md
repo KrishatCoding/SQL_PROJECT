@@ -55,7 +55,7 @@ The provided SQL file have answer of Project 2:
 - All query examples are included in SQL_Queries.sql.
 # Getting Started
 - Download or clone the repository.
-- Open the CSV files in your SQL client to load sample data (guide on importing CSV in MySQL).
+- Open the CSV files in your SQL client to load sample data [(guide on importing CSV in MySQL)](https://dev.mysql.com/doc/workbench/en/wb-admin-export-import-table.html).
 - Run the SQL script for table creation and to execute built-in analytical queries.
 - Explore and modify queries as per your requirements.
 # Learning Outcomes
