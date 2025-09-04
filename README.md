@@ -6,7 +6,7 @@ All data is fully generated online and does not correspond to real individuals o
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 # Table of Contents
-
+Overview
 Files Included
 Database Structure
 Analytical Queries
