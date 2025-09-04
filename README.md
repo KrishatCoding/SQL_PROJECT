@@ -14,6 +14,10 @@ All data is fully generated online and does not correspond to real individuals o
 # Overview
 This project demonstrates a relational company database built with three main tables: employees, departments, and projects. Pre-built SQL queries provide solutions for questions like gender distribution, active staff metrics, intern counts, departmental CTC, project budgets, and department head analytics.
 # Files Included
+PROJECT 1 RAPDIO_BOOKING of August 2025
+- rapido_delhi_aug2025_100k.xlsx — Sample booking of Rapido Car 100k rows
+
+PROJECT 2 EMPLOYEES, DEPARTMENT AND PROJECTS
 - Employees.csv — Sample employee data
 - Departments.csv — Sample department data
 - Projects.csv — Sample project data
@@ -21,6 +25,10 @@ This project demonstrates a relational company database built with three main ta
 - README.md — This project overview and instructions
 - LICENSE — MIT License
 # Database Structure
+PROJECT 1
+- rapido: Contains Date, Time, Booking_ID, Booking_Status, Customer_ID	Vehicle_Type, Pickup_Location	Drop_Location, Avg_VTAT, Avg_CTAT, Cancelled_Rides_by_Customer, Reason_for_cancelling_by_Customer, Cancelled_Rides_by_Driver, Incomplete_Rides, Incomplete_Rides_Reason, Booking_Value, Ride_Distance, Driver_Ratings, Customer_Rating
+
+PROJECT 2
 - employees: Contains fields such as gender, designation, salary, status, and department reference.
 - departments: Holds department IDs, names, and head employee IDs.
 - projects: Stores project names, budgets, related departments, and timelines.
