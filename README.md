@@ -33,13 +33,25 @@ PROJECT 2
 - departments: Holds department IDs, names, and head employee IDs.
 - projects: Stores project names, budgets, related departments, and timelines.
 # Analytical Queries
-1. The provided SQL file answers:
-2. What is the gender distribution across all departments?
-3. How many active employees are in each department?
-4. Which departments have the most interns?
-5. What is the average CTC per department?
-6. What ongoing projects exist per department, and what are their budgets?
-7. How many ongoing projects does each department head manage?
+The provided SQL file have answer of Project 1:
+1. Retrieve all successful bookings:
+2. Find the average ride distance for each vehicle type:
+3. Get the total number of cancelled rides by customers:
+4. List the top 5 customers who booked the highest number of rides:
+5. Get the number of rides cancelled by drivers due to personal and car-related issues:
+6. Find the maximum and minimum driver ratings for Prime Sedan bookings:
+7. Retrieve all rides where payment was made using UPI:
+8. Find the average customer rating per vehicle type:
+9. Calculate the total booking value of rides completed successfully:
+10. List all incomplete rides along with the reason:
+
+The provided SQL file have answer of Project 2:
+1. What is the gender distribution across all departments?
+2. How many active employees are in each department?
+3. Which departments have the most interns?
+4. What is the average CTC per department?
+5. What ongoing projects exist per department, and what are their budgets?
+6. How many ongoing projects does each department head manage?
 - All query examples are included in SQL_Queries.sql.
 # Getting Started
 - Download or clone the repository.
