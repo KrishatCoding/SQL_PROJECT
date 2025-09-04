@@ -1,7 +1,8 @@
 SQL_PROJECT
 A SQL project for managing employees, departments, and projects, featuring advanced queries for HR and business analytics.
 All data is fully generated online and does not correspond to real individuals or organizations.
-
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 Table of Contents
 Overview
 Files Included
